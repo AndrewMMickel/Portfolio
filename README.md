@@ -26,7 +26,7 @@ _Made entirely from scratch and uses bootstraps css_
 
 ## Link
 
-[Portfolio](https://github.com/AndrewMMickel/Portfolio)
+[Portfolio](https://andrewmmickel.github.io/Portfolio/)
 
 ### License
 

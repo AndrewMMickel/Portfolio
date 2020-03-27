@@ -1,16 +1,16 @@
-# _{hello world!}_
+# _My Portfolio_
 
-#### _{first webpage}, {2/6/2020}_
+#### _Portfolio, {3/27/2020}_
 
-#### By _**{Andrew Mickel}**_
+#### By _**Andrew Mickel**_
 
 ## Description
 
-_{This page is a creation of mine as I learn to code with HTML}_
+_This page is a creation of my Portfolio and has 3 of my best projects listed and associated links so them_
 
 ## Setup/Installation Requirements
 
-* _There shouldn't be any installation requirements. Will update if this changes_
+* _You will need bootstraps installed on your desktop in order for your page to work properly. You can download Bootstraps from getbootstrap.com .You will also need to download the jpg of me or it won't display. The jpg should be in the folder with all the other files._
 
 ## Known Bugs
 
@@ -22,7 +22,10 @@ _email andrew.m.mickel@gmail.com if there are any concerns_
 
 ## Technologies Used
 
-_The most impressive part so far is that all of this work has been done on Windows. There'll be more later_
+_Made entirely from scratch and uses bootstraps css_
+
+## Link
+[Portfolio]()
 
 ### License
 

@@ -24,10 +24,10 @@ _email andrew.m.mickel@gmail.com if there are any concerns_
 
 _Made entirely from scratch and uses bootstraps css_
 
-## Links
+## Link
 
-[Portfolio Repository](https://github.com/AndrewMMickel/Portfolio.git)
 [Portfolio](https://andrewmmickel.github.io/Portfolio/)
+
 ### License
 
 MIT License
